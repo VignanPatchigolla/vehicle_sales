@@ -39,7 +39,7 @@ Vehicle-Sales-Data-Project/
 ├── factory/                # ARM templates and Global Parameters
 ├── linkedservice/          # Linked services in ADF
 ├── pipeline/               # ADF pipelines configurations
-├── architecture/           # Architecture diagram
+├── Archi.png/              # Architecture diagram
 ├── README.md               # Project overview (this file)
 ```
 ## 🚀 Key Features
